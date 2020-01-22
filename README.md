@@ -1,5 +1,5 @@
 ## Chair Template
-This is a fully responsive prototype for a template once requested by a friend. In the end he decided to go with another template, so I've decided upload this one for anyone who wants to continue to use it. It is written in plain HTML5 CSS3.
+This is a fully responsive prototype for a template once requested by a friend. Since he has no need for it anymore, I've decided to upload this one for anyone who wants to continue to use it. It is written in plain HTML5 CSS3.
 
 ## Structure
 - CSS selectors are sorted by specificity and dependend on appearance on the page.
